@@ -1,5 +1,5 @@
 # COVID-19-Data-Analysis-and-Forecasting
-This repository contains code and resources for conducting comprehensive analysis of COVID-19 data from January 2020 to April 2021.
+This repository contains code and resources for conducting comprehensive analysis of COVID-19 data from January 2020 to April 2021. Conducted comprehensive analysis of COVID-19 data using SQL and Tableau.
 # Overview
 The project focuses on exploring trends in COVID-19 infections, deaths, and vaccinations across different demographics, locations, and time periods. Additionally, it includes a comparative study and future forecast analysis for selected countries using Tableau.
 
